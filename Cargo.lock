@@ -305,6 +305,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "bevy-drpc"
+version = "0.1.0"
+dependencies = [
+ "bevy",
+ "discord-presence",
+]
+
+[[package]]
 name = "bevy_a11y"
 version = "0.14.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1130,14 +1138,6 @@ dependencies = [
  "rustc-hash",
  "shlex",
  "syn 2.0.79",
-]
-
-[[package]]
-name = "birdy"
-version = "0.1.0"
-dependencies = [
- "bevy",
- "discord-presence",
 ]
 
 [[package]]
