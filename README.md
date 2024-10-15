@@ -1,3 +1,3 @@
-# birdy
+# bevy-drpc
 Discord RPC plugin for [bevy](https://bevyengine.org/). (Unstable) \
-Check examples on how to get started. :)
+Check `examples` on how to get started. :)
