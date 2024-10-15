@@ -5,9 +5,9 @@ edition = "2021"
 license = "MIT"
 keywords = ["bevy", "gamedev"]
 description = "A bevy Discord RPC plugin"
-documentation = "https://github.com/SunkenPotato/birdy"
-homepage = "https://github.com/SunkenPotato/birdy"
-repository = "https://github.com/SunkenPotato/birdy"
+documentation = "https://github.com/SunkenPotato/bevy-drpc"
+homepage = "https://github.com/SunkenPotato/bevy-drpc"
+repository = "https://github.com/SunkenPotato/bevy-drpc"
 
 [dependencies]
 bevy = "0.14.2"
